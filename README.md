@@ -2,7 +2,7 @@
   <img width="100%" height="90" src="giphy.gif" alt="Banner" style="object-fit: cover;" />
   
   <h1>Olá, eu sou o João Victor Matos! 🐨</h1>
-  <h3>Estudante de Engenharia de Informação 📡 na UFABC | Aspirante a Engenheiro DevOps</h3>
+  <h3>Estudante de Engenharia de Informação na UFABC 📡 | Aspirante a Engenheiro DevOps</h3>
 </div>
 
 <div align="center">
